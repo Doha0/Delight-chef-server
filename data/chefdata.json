@@ -3,6 +3,7 @@
         "_id": 1,
         "chefPicture": "https://res.cloudinary.com/dpeoxmblg/image/upload/c_limit,f_jpg,fl_lossy.any_format.preserve_transparency.progressive,h_1600,pg_1,q_auto,w_1600/v1/assets/Chef/wcu3hkqadpze9rfebdad",
         "chefName": "Emr Yılmaz",
+        "bio": "Emr Yılmaz is a rising star in the Turkish culinary scene, known for his innovative take on traditional Turkish dishes. He has worked in several high-end restaurants across Istanbul and is currently the head chef at the acclaimed restaurant, Nicole.",
         "yearsOfExperience": "12 years",
         "numberOfRecipes": 75,
         "likes": 350,
@@ -18,7 +19,7 @@
                     "tomato paste",
                     "butter"
                 ],
-                "method": "1. Rinse the red lentils in cold water. \\n2. In a pot, sauté chopped onion and grated carrots in butter until soft. \\n3. Add diced potatoes, tomato paste, and rinsed lentils to the pot. \\n4. Add water, salt, and pepper to taste. \\n5. Bring to a boil, then reduce heat and simmer until the lentils are cooked and the soup thickens. \\n6. Serve hot with a slice of lemon and bread on the side.",
+                "method": "Rinse the red lentils in cold water. In a pot, sauté chopped onion and grated carrots in butter until soft.   Add diced potatoes, tomato paste, and rinsed lentils to the pot. Add water, salt, and pepper to taste. Bring to a boil, then reduce heat and simmer until the lentils are cooked and the soup thickens. Serve hot with a slice of lemon and bread on the side.",
                 "rating": 4.6,
                 "isFavorite": true
             },
@@ -32,7 +33,7 @@
                     "parsley",
                     "salt"
                 ],
-                "method": "1. In a bowl, mix together the ground beef, chopped onion, breadcrumbs, beaten egg, finely chopped parsley, salt, and pepper. \\n2. Knead the mixture until well combined. \\n3. Form the mixture into small meatballs. \\n4. Heat vegetable oil in a pan and fry the meatballs until browned on all sides. \\n5. Serve hot with mashed potatoes and a side salad.",
+                "method": "1. In a bowl, mix together the ground beef, chopped onion, breadcrumbs, beaten egg, finely chopped parsley, salt, and pepper.   Knead the mixture until well combined.   Form the mixture into small meatballs. Heat vegetable oil in a pan and fry the meatballs until browned on all sides. Serve hot with mashed potatoes and a side salad.",
                 "rating": 4.2,
                 "isFavorite": false
             },
@@ -46,7 +47,7 @@
                     "lemon juice",
                     "butter"
                 ],
-                "method": "1. Preheat the oven to 180°C. \\n2. Grind the walnuts and sugar together in a food processor until finely ground. \\n3. Melt the butter in a small saucepan. \\n4. Layer 6-8 sheets of phyllo dough on a baking tray, brushing each sheet with melted butter. \\n5. Spread the walnut mixture evenly over the phyllo dough. \\n6. Layer another 6-8 sheets of phyllo dough on top, brushing each sheet with melted butter. \\n7. Cut the baklava into diamond-shaped pieces. \\n8. Bake for 30-35 minutes, or until golden brown. \\n9. Meanwhile, make the syrup by combining water, sugar, and lemon juice in a small saucepan. \\n10. Bring the mixture to a boil, then reduce heat and simmer for 10 minutes. \\n11. Pour the syrup over the hot baklava. \\n12. Allow the baklava to cool before serving.",
+                "method": "1. Preheat the oven to 180°C.   Grind the walnuts and sugar together in a food processor until finely ground.   Melt the butter in a small saucepan. Layer 6-8 sheets of phyllo dough on a baking tray, brushing each sheet with melted butter. Spread the walnut mixture evenly over the phyllo dough. Layer another 6-8 sheets of phyllo dough on top, brushing each sheet with melted butter. \\n7. Cut the baklava into diamond-shaped pieces. \\n8. Bake for 30-35 minutes, or until golden brown. \\n9. Meanwhile, make the syrup by combining water, sugar, and lemon juice in a small saucepan. \\n10. Bring the mixture to a boil, then reduce heat and simmer for 10 minutes. \\n11. Pour the syrup over the hot baklava. \\n12. Allow the baklava to cool before serving.",
                 "rating": 4.8,
                 "isFavorite": true
             }
@@ -56,6 +57,7 @@
         "_id": 2,
         "chefPicture": "https://res.cloudinary.com/dpeoxmblg/image/upload/c_limit,f_jpg,fl_lossy.any_format.preserve_transparency.progressive,h_1600,pg_1,q_auto,w_1600/v1/assets/Chef/obqm9oyjzmu14knybsop",
         "chefName": "Ali Öztürk",
+        "bio": "Ali Öztürk is a renowned Turkish chef with over 20 years of experience in the industry. He is the owner and head chef at Ali Ocakbaşı, a popular restaurant in Istanbul known for its authentic Turkish cuisine.",
         "yearsOfExperience": "10 years",
         "numberOfRecipes": 50,
         "likes": 105,
@@ -71,7 +73,7 @@
                     "tomato paste",
                     "butter"
                 ],
-                "method": "1. Rinse the lentils in cold water and drain. \\n2. In a pot, sauté chopped onions in butter until they are soft. \\n3. Add diced carrots and potatoes to the pot and cook for 5 minutes. \\n4. Add the lentils and enough water to cover them by about 2 inches. \\n5. Bring to a boil, then reduce heat and simmer for about 20-25 minutes until the lentils are cooked. \\n6. Stir in tomato paste and spices, and cook for a few minutes more. \\n7. Serve hot with crusty bread.",
+                "method": "1. Rinse the lentils in cold water and drain.   In a pot, sauté chopped onions in butter until they are soft.   Add diced carrots and potatoes to the pot and cook for 5 minutes. Add the lentils and enough water to cover them by about 2 inches. Bring to a boil, then reduce heat and simmer for about 20-25 minutes until the lentils are cooked. Stir in tomato paste and spices, and cook for a few minutes more. \\n7. Serve hot with crusty bread.",
                 "rating": 4.7,
                 "isFavorite": true
             },
@@ -85,7 +87,7 @@
                     "cumin",
                     "paprika"
                 ],
-                "method": "1. In a large bowl, mix the ground lamb, chopped onion, minced garlic, red pepper flakes, cumin, paprika, and salt until well combined. \\n2. Shape the meat mixture into small patties or balls. \\n3. Preheat a grill or grill pan over medium-high heat. \\n4. Grill the kebabs for 4-5 minutes on each side until cooked through. \\n5. Squeeze some lemon juice over the kebabs before serving.",
+                "method": "1. In a large bowl, mix the ground lamb, chopped onion, minced garlic, red pepper flakes, cumin, paprika, and salt until well combined.   Shape the meat mixture into small patties or balls.   Preheat a grill or grill pan over medium-high heat. Grill the kebabs for 4-5 minutes on each side until cooked through. Squeeze some lemon juice over the kebabs before serving.",
                 "rating": 4.4,
                 "isFavorite": false
             },
@@ -100,7 +102,7 @@
                     "olive oil",
                     "lemon juice"
                 ],
-                "method": "1. Rinse the grape leaves and pat them dry. \\n2. In a bowl, mix together cooked rice, chopped onion, parsley, mint, olive oil, lemon juice, and spices. \\n3. Lay a grape leaf flat on a work surface and spoon a small amount of the rice mixture onto it. \\n4. Roll the leaf up tightly, tucking in the sides as you go. \\n5. Repeat with the remaining grape leaves and rice mixture. \\n6. Place the stuffed grape leaves in a pot, seam side down, and pour in enough water to cover them. \\n7. Cover the pot and simmer for about 30-35 minutes until the rice is cooked and the grape leaves are tender. \\n8. Serve warm or at room temperature.",
+                "method": "1. Rinse the grape leaves and pat them dry.   In a bowl, mix together cooked rice, chopped onion, parsley, mint, olive oil, lemon juice, and spices.   Lay a grape leaf flat on a work surface and spoon a small amount of the rice mixture onto it. Roll the leaf up tightly, tucking in the sides as you go. Repeat with the remaining grape leaves and rice mixture. Place the stuffed grape leaves in a pot, seam side down, and pour in enough water to cover them. \\n7. Cover the pot and simmer for about 30-35 minutes until the rice is cooked and the grape leaves are tender. \\n8. Serve warm or at room temperature.",
                 "rating": 4.6,
                 "isFavorite": false
             }
@@ -110,6 +112,7 @@
         "_id": 3,
         "chefPicture": "https://res.cloudinary.com/dpeoxmblg/image/upload/c_limit,f_jpg,fl_lossy.any_format.preserve_transparency.progressive,h_1600,pg_1,q_auto,w_1600/v1/assets/Chef/abc4zj9ckoeoe2fxrgkc",
         "chefName": "Burak Kaya",
+        "bio": "Burak Kaya is a celebrity chef in Turkey, known for his appearances on various cooking shows and his innovative take on traditional Turkish cuisine. He is the owner of the restaurant, Kebapçı Burak, which has several locations across Istanbul.",
         "yearsOfExperience": "15 years",
         "numberOfRecipes": 80,
         "likes": 450,
@@ -163,6 +166,7 @@
         "_id": 4,
         "chefPicture": "https://res.cloudinary.com/dpeoxmblg/image/upload/c_limit,f_jpg,fl_lossy.any_format.preserve_transparency.progressive,h_1600,pg_1,q_auto,w_1600/v1/assets/Chef/q8ajeep7nedsi9czqgh6",
         "chefName": "Caer Şahin",
+        "bio": "Caer Şahin is a young and talented chef who has made a name for himself in the Turkish culinary scene. He is the head chef at the popular restaurant, Neolokal, located in Istanbul, which focuses on modern Turkish cuisine.",
         "yearsOfExperience": "8 years",
         "numberOfRecipes": 45,
         "likes": 150,
@@ -216,6 +220,7 @@
         "_id": 5,
         "chefPicture": "https://res.cloudinary.com/dpeoxmblg/image/upload/v1683015818/assets/Chef/rumarstol1vqlcskejuc.jpg",
         "chefName": "Sran Aksoy",
+        "bio": "Sran Aksoy is a well-known Turkish chef who has worked in several high-end restaurants across Turkey and Europe. He is the head chef at Mikla, a Michelin-starred restaurant located in Istanbul, known for its fusion of Turkish and Scandinavian cuisine.",
         "yearsOfExperience": "5 years",
         "numberOfRecipes": 55,
         "likes": 232,
@@ -269,6 +274,7 @@
         "_id": 6,
         "chefPicture": "https://res.cloudinary.com/dpeoxmblg/image/upload/c_limit,f_jpg,fl_lossy.any_format.preserve_transparency.progressive,h_1600,pg_1,q_auto,w_1600/v1/assets/Chef/mcxsuu7akna31eae0jfb",
         "chefName": "Usuf Ayın",
+        "bio": "Usuf Aydın is a celebrated Turkish chef who has won numerous awards for his innovative take on traditional Turkish cuisine. He is the head chef at the restaurant, Köşebaşı, which has several locations across Turkey and specializes in Turkish meat dishes.",
         "yearsOfExperience": "9 years",
         "numberOfRecipes": 65,
         "likes": 301,
