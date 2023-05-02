@@ -1,0 +1,356 @@
+[
+    {
+        "id": 1,
+        "chefPicture": "img2.jpg",
+        "chefName": "Ayşe Güneş",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 75,
+        "likes": 35,
+        "viewRecipesButton": "View Ayşe's Recipes",
+        "recipes": [
+            {
+                "name": "Turkish Lentil Soup",
+                "ingredients": [
+                    "red lentils",
+                    "onion",
+                    "carrots",
+                    "potatoes",
+                    "tomato paste",
+                    "butter",
+                    "salt",
+                    "pepper",
+                    "water"
+                ],
+                "method": "1. Rinse the red lentils in cold water. \\n2. In a pot, sauté chopped onion and grated carrots in butter until soft. \\n3. Add diced potatoes, tomato paste, and rinsed lentils to the pot. \\n4. Add water, salt, and pepper to taste. \\n5. Bring to a boil, then reduce heat and simmer until the lentils are cooked and the soup thickens. \\n6. Serve hot with a slice of lemon and bread on the side.",
+                "rating": 4.6,
+                "isFavorite": true
+            },
+            {
+                "name": "Turkish Meatballs",
+                "ingredients": [
+                    "ground beef",
+                    "onion",
+                    "breadcrumbs",
+                    "egg",
+                    "parsley",
+                    "salt",
+                    "pepper",
+                    "vegetable oil"
+                ],
+                "method": "1. In a bowl, mix together the ground beef, chopped onion, breadcrumbs, beaten egg, finely chopped parsley, salt, and pepper. \\n2. Knead the mixture until well combined. \\n3. Form the mixture into small meatballs. \\n4. Heat vegetable oil in a pan and fry the meatballs until browned on all sides. \\n5. Serve hot with mashed potatoes and a side salad.",
+                "rating": 4.2,
+                "isFavorite": false
+            },
+            {
+                "name": "Turkish Baklava",
+                "ingredients": [
+                    "phyllo dough",
+                    "walnuts",
+                    "sugar",
+                    "water",
+                    "lemon juice",
+                    "butter"
+                ],
+                "method": "1. Preheat the oven to 180°C. \\n2. Grind the walnuts and sugar together in a food processor until finely ground. \\n3. Melt the butter in a small saucepan. \\n4. Layer 6-8 sheets of phyllo dough on a baking tray, brushing each sheet with melted butter. \\n5. Spread the walnut mixture evenly over the phyllo dough. \\n6. Layer another 6-8 sheets of phyllo dough on top, brushing each sheet with melted butter. \\n7. Cut the baklava into diamond-shaped pieces. \\n8. Bake for 30-35 minutes, or until golden brown. \\n9. Meanwhile, make the syrup by combining water, sugar, and lemon juice in a small saucepan. \\n10. Bring the mixture to a boil, then reduce heat and simmer for 10 minutes. \\n11. Pour the syrup over the hot baklava. \\n12. Allow the baklava to cool before serving.",
+                "rating": 4.8,
+                "isFavorite": true
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chefPicture": "img1.jpg",
+        "chefName": "Aylin Ylmaz",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 75,
+        "likes": 35,
+        "viewRecipesButton": "View Aylin's Recipes",
+        "recipes": [
+            {
+                "name": "Turkish Lentil Soup",
+                "ingredients": [
+                    "red lentils",
+                    "onion",
+                    "carrots",
+                    "potatoes",
+                    "tomato paste",
+                    "butter",
+                    "spices"
+                ],
+                "method": "1. Rinse the lentils in cold water and drain. \\n2. In a pot, sauté chopped onions in butter until they are soft. \\n3. Add diced carrots and potatoes to the pot and cook for 5 minutes. \\n4. Add the lentils and enough water to cover them by about 2 inches. \\n5. Bring to a boil, then reduce heat and simmer for about 20-25 minutes until the lentils are cooked. \\n6. Stir in tomato paste and spices, and cook for a few minutes more. \\n7. Serve hot with crusty bread.",
+                "rating": 4.7,
+                "isFavorite": true
+            },
+            {
+                "name": "Turkish Lamb Kebabs",
+                "ingredients": [
+                    "ground lamb",
+                    "onion",
+                    "garlic",
+                    "red pepper flakes",
+                    "cumin",
+                    "paprika",
+                    "salt",
+                    "lemon juice"
+                ],
+                "method": "1. In a large bowl, mix the ground lamb, chopped onion, minced garlic, red pepper flakes, cumin, paprika, and salt until well combined. \\n2. Shape the meat mixture into small patties or balls. \\n3. Preheat a grill or grill pan over medium-high heat. \\n4. Grill the kebabs for 4-5 minutes on each side until cooked through. \\n5. Squeeze some lemon juice over the kebabs before serving.",
+                "rating": 4.4,
+                "isFavorite": false
+            },
+            {
+                "name": "Turkish Stuffed Grape Leaves",
+                "ingredients": [
+                    "grape leaves",
+                    "rice",
+                    "onion",
+                    "parsley",
+                    "mint",
+                    "olive oil",
+                    "lemon juice",
+                    "spices"
+                ],
+                "method": "1. Rinse the grape leaves and pat them dry. \\n2. In a bowl, mix together cooked rice, chopped onion, parsley, mint, olive oil, lemon juice, and spices. \\n3. Lay a grape leaf flat on a work surface and spoon a small amount of the rice mixture onto it. \\n4. Roll the leaf up tightly, tucking in the sides as you go. \\n5. Repeat with the remaining grape leaves and rice mixture. \\n6. Place the stuffed grape leaves in a pot, seam side down, and pour in enough water to cover them. \\n7. Cover the pot and simmer for about 30-35 minutes until the rice is cooked and the grape leaves are tender. \\n8. Serve warm or at room temperature.",
+                "rating": 4.6,
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chefPicture": "img2.jpg",
+        "chefName": "Ayse Yilmaz",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 80,
+        "likes": 30,
+        "viewRecipesButton": "View Ayse's Recipes",
+        "recipes": [
+            {
+                "name": "Turkish Pide",
+                "ingredients": [
+                    "flour",
+                    "yeast",
+                    "water",
+                    "salt",
+                    "ground beef",
+                    "tomatoes",
+                    "green peppers",
+                    "onion",
+                    "olive oil",
+                    "red pepper flakes"
+                ],
+                "method": "1. Combine flour, yeast, water, and salt in a mixing bowl to make dough. \n2. Let the dough rest for an hour. \n3. Preheat the oven to 220°C. \n4. In a pan, cook ground beef with chopped tomatoes, green peppers, and onion. \n5. Roll out the dough into an oval shape and spread olive oil on top. \n6. Add the cooked beef mixture on top of the dough. \n7. Sprinkle red pepper flakes on top. \n8. Bake in the oven for 15-20 minutes. \n9. Serve hot.",
+                "rating": 4.6,
+                "isFavorite": true
+            },
+            {
+                "name": "Lahmacun",
+                "ingredients": [
+                    "ground beef",
+                    "tomatoes",
+                    "onion",
+                    "parsley",
+                    "red pepper flakes",
+                    "paprika",
+                    "salt",
+                    "flour",
+                    "yeast",
+                    "water",
+                    "olive oil"
+                ],
+                "method": "1. Combine flour, yeast, water, and salt in a mixing bowl to make dough. \n2. Let the dough rest for an hour. \n3. In a separate bowl, mix ground beef with chopped tomatoes, onion, parsley, red pepper flakes, paprika, and salt. \n4. Preheat the oven to 250°C. \n5. Roll out the dough into thin circles. \n6. Spread olive oil on top of each circle. \n7. Add the meat mixture on top of each circle. \n8. Bake in the oven for 10-15 minutes. \n9. Serve hot.",
+                "rating": 4.4,
+                "isFavorite": false
+            },
+            {
+                "name": "Baklava",
+                "ingredients": [
+                    "phyllo dough",
+                    "butter",
+                    "walnuts",
+                    "sugar",
+                    "water",
+                    "lemon juice"
+                ],
+                "method": "1. Preheat the oven to 180°C. \n2. Melt butter and brush it on phyllo dough sheets. \n3. Add crushed walnuts and sugar on top of each sheet. \n4. Roll up the sheets tightly and place them in a baking dish. \n5. Cut the rolled dough into diamond shapes. \n6. Bake in the oven for 25-30 minutes. \n7. In a separate saucepan, mix water, sugar, and lemon juice and bring to a boil. \n8. Pour the hot syrup over the baked baklava. \n9. Let it cool and serve.",
+                "rating": 4.9,
+                "isFavorite": true
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chefPicture": "img2.jpg",
+        "chefName": "Ayşe Özdemir",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 75,
+        "likes": 15,
+        "viewRecipesButton": "View Ayşe's Recipes",
+        "recipes": [
+            {
+                "name": "Turkish Meatballs",
+                "ingredients": [
+                    "ground beef",
+                    "bread crumbs",
+                    "onion",
+                    "egg",
+                    "garlic",
+                    "salt",
+                    "pepper"
+                ],
+                "method": "1. In a mixing bowl, combine ground beef, bread crumbs, grated onion, minced garlic, salt, and pepper. \n2. Add beaten egg to the mixture and mix well. \n3. Form the mixture into meatballs. \n4. Heat oil in a pan and cook meatballs until browned on all sides. \n5. Serve hot with tomato sauce and rice.",
+                "rating": 4.6,
+                "isFavorite": true
+            },
+            {
+                "name": "Lentil Soup",
+                "ingredients": [
+                    "red lentils",
+                    "onion",
+                    "carrot",
+                    "potatoes",
+                    "tomatoes",
+                    "olive oil",
+                    "salt"
+                ],
+                "method": "1. In a pot, sauté chopped onion in olive oil until soft. \n2. Add chopped carrot and potato and cook for a few minutes. \n3. Add chopped tomatoes and red lentils to the pot and pour enough water to cover the ingredients. \n4. Cook until the lentils are tender. \n5. Use an immersion blender to blend the soup until smooth. \n6. Add salt to taste. \n7. Serve hot with bread.",
+                "rating": 4.3,
+                "isFavorite": false
+            },
+            {
+                "name": "Turkish Baklava",
+                "ingredients": [
+                    "phyllo pastry",
+                    "walnuts",
+                    "sugar",
+                    "water",
+                    "lemon juice",
+                    "butter"
+                ],
+                "method": "1. In a mixing bowl, mix chopped walnuts and sugar. \n2. Melt butter in a pan. \n3. Brush a baking dish with melted butter. \n4. Layer phyllo pastry sheets in the baking dish, brushing each layer with melted butter. \n5. Spread the walnut mixture on top of the phyllo layers. \n6. Add another layer of phyllo pastry sheets, brushing each layer with melted butter. \n7. Bake the baklava in the oven at 180°C for 30 minutes. \n8. In a pot, mix water, sugar, and lemon juice and bring to a boil. \n9. Pour the syrup on top of the hot baklava. \n10. Let the baklava cool down and serve.",
+                "rating": 4.9,
+                "isFavorite": true
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chefPicture": "img2.jpg",
+        "chefName": "Aylin Yilmaz",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 75,
+        "likes": 32,
+        "viewRecipesButton": "View Aylin's Recipes",
+        "recipes": [
+            {
+                "name": "Turkish Meatballs",
+                "ingredients": [
+                    "ground beef",
+                    "onion",
+                    "bread crumbs",
+                    "egg",
+                    "garlic",
+                    "parsley",
+                    "salt",
+                    "pepper"
+                ],
+                "method": "1. In a bowl, combine ground beef, chopped onion, bread crumbs, egg, minced garlic, chopped parsley, salt, and pepper. \n2. Mix well and form into small balls. \n3. Heat a pan with a little oil and cook the meatballs until browned on all sides. \n4. Serve hot with tomato sauce and rice.",
+                "rating": 4.6,
+                "isFavorite": true
+            },
+            {
+                "name": "Stuffed Eggplant",
+                "ingredients": [
+                    "eggplant",
+                    "ground beef",
+                    "onion",
+                    "tomatoes",
+                    "green peppers",
+                    "garlic",
+                    "olive oil",
+                    "salt",
+                    "pepper"
+                ],
+                "method": "1. Cut the top off the eggplants and scoop out the flesh. \n2. In a pan, sauté chopped onion and minced garlic in olive oil until soft. \n3. Add ground beef, chopped tomatoes, sliced green peppers, salt, and pepper. Cook until meat is browned. \n4. Stuff the eggplants with the meat mixture and place in a baking dish. \n5. Bake in the oven at 350°F for 30-40 minutes. \n6. Serve hot.",
+                "rating": 4.4,
+                "isFavorite": false
+            },
+            {
+                "name": "Baklava",
+                "ingredients": [
+                    "phyllo dough",
+                    "walnuts",
+                    "sugar",
+                    "water",
+                    "lemon juice",
+                    "butter",
+                    "cinnamon"
+                ],
+                "method": "1. Preheat the oven to 350°F. \n2. In a bowl, mix chopped walnuts, sugar, and cinnamon. \n3. Melt butter in a saucepan. \n4. Lay a sheet of phyllo dough on a baking sheet and brush with melted butter. \n5. Repeat with several more layers of phyllo dough, brushing each layer with melted butter. \n6. Spread the walnut mixture on top of the phyllo dough layers. \n7. Cover with more layers of phyllo dough, brushing each layer with melted butter. \n8. Cut into diamond shapes. \n9. Bake in the oven for 30-35 minutes. \n10. In a saucepan, mix water, sugar, and lemon juice. Heat until the sugar dissolves. \n11. Pour the syrup over the baklava as soon as it comes out of the oven. \n12. Let cool and serve.",
+                "rating": 4.9,
+                "isFavorite": true
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chefPicture": "img2.jpg",
+        "chefName": "Ayşe Yılmaz",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 75,
+        "likes": 30,
+        "viewRecipesButton": "View Ayşe's Recipes",
+        "recipes": [
+            {
+                "name": "Turkish Lentil Soup",
+                "ingredients": [
+                    "red lentils",
+                    "onion",
+                    "carrots",
+                    "potatoes",
+                    "tomato paste",
+                    "butter",
+                    "salt",
+                    "black pepper",
+                    "red pepper flakes"
+                ],
+                "method": "1. Rinse red lentils in cold water and drain. \n2. In a pot, melt butter and sauté chopped onion until soft. \n3. Add chopped carrots, potatoes, and drained lentils to the pot. \n4. Add water to the pot, enough to cover the ingredients. \n5. Cook until the lentils and vegetables are tender. \n6. Add tomato paste and season with salt, black pepper, and red pepper flakes. \n7. Puree the soup with an immersion blender until smooth. \n8. Serve hot with bread or croutons.",
+                "rating": 4.6,
+                "isFavorite": true
+            },
+            {
+                "name": "Lahmacun",
+                "ingredients": [
+                    "ground beef",
+                    "tomatoes",
+                    "onion",
+                    "parsley",
+                    "red pepper flakes",
+                    "paprika",
+                    "cumin",
+                    "olive oil",
+                    "flour",
+                    "yeast",
+                    "salt",
+                    "water"
+                ],
+                "method": "1. In a bowl, mix flour, yeast, salt, and water to make the dough. \n2. Knead the dough until smooth and let it rest for 30 minutes. \n3. In a separate bowl, mix ground beef, chopped tomatoes, onion, parsley, red pepper flakes, paprika, cumin, and olive oil to make the topping. \n4. Preheat the oven to 450°F. \n5. Divide the dough into small balls and roll them out into thin circles. \n6. Spread the topping on each circle and bake in the oven for 10-15 minutes. \n7. Serve hot with lemon wedges.",
+                "rating": 4.9,
+                "isFavorite": false
+            },
+            {
+                "name": "Turkish Delight",
+                "ingredients": [
+                    "cornstarch",
+                    "sugar",
+                    "water",
+                    "rosewater",
+                    "food coloring",
+                    "powdered sugar"
+                ],
+                "method": "1. In a pot, mix cornstarch, sugar, and water. \n2. Cook the mixture over medium heat, stirring constantly, until it thickens. \n3. Add rosewater and food coloring to the mixture and stir well. \n4. Pour the mixture into a square pan and let it cool. \n5. Dust powdered sugar on top of the cooled mixture. \n6. Cut the mixture into small cubes and serve.",
+                "rating": 4.2,
+                "isFavorite": false
+            }
+        ]
+    }
+]
