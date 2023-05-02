@@ -1,8 +1,8 @@
 [
     {
-        "id": 1,
-        "chefPicture": "img2.jpg",
-        "chefName": "Ayşe Güneş",
+        "_id": 1,
+        "chefPicture": "https://res.cloudinary.com/dpeoxmblg/image/upload/c_limit,f_jpg,fl_lossy.any_format.preserve_transparency.progressive,h_1600,pg_1,q_auto,w_1600/v1/assets/Chef/wcu3hkqadpze9rfebdad",
+        "chefName": "Emre Yılmaz",
         "yearsOfExperience": 12,
         "numberOfRecipes": 75,
         "likes": 35,
@@ -58,9 +58,9 @@
         ]
     },
     {
-        "id": 2,
-        "chefPicture": "img1.jpg",
-        "chefName": "Aylin Ylmaz",
+        "_id": 2,
+        "chefPicture": "https://res.cloudinary.com/dpeoxmblg/image/upload/c_limit,f_jpg,fl_lossy.any_format.preserve_transparency.progressive,h_1600,pg_1,q_auto,w_1600/v1/assets/Chef/obqm9oyjzmu14knybsop",
+        "chefName": "Ali Öztürk",
         "yearsOfExperience": 12,
         "numberOfRecipes": 75,
         "likes": 35,
@@ -116,9 +116,9 @@
         ]
     },
     {
-        "id": 2,
-        "chefPicture": "img2.jpg",
-        "chefName": "Ayse Yilmaz",
+        "_id": 3,
+        "chefPicture": "https://res.cloudinary.com/dpeoxmblg/image/upload/c_limit,f_jpg,fl_lossy.any_format.preserve_transparency.progressive,h_1600,pg_1,q_auto,w_1600/v1/assets/Chef/abc4zj9ckoeoe2fxrgkc",
+        "chefName": "Burak Kaya",
         "yearsOfExperience": 12,
         "numberOfRecipes": 80,
         "likes": 30,
@@ -178,9 +178,9 @@
         ]
     },
     {
-        "id": 2,
-        "chefPicture": "img2.jpg",
-        "chefName": "Ayşe Özdemir",
+        "_id": 4,
+        "chefPicture": "https://res.cloudinary.com/dpeoxmblg/image/upload/c_limit,f_jpg,fl_lossy.any_format.preserve_transparency.progressive,h_1600,pg_1,q_auto,w_1600/v1/assets/Chef/q8ajeep7nedsi9czqgh6",
+        "chefName": "Caner Şahin",
         "yearsOfExperience": 12,
         "numberOfRecipes": 75,
         "likes": 15,
@@ -233,9 +233,9 @@
         ]
     },
     {
-        "id": 2,
-        "chefPicture": "img2.jpg",
-        "chefName": "Aylin Yilmaz",
+        "_id": 5,
+        "chefPicture": "https://res.cloudinary.com/dpeoxmblg/image/upload/v1683015818/assets/Chef/rumarstol1vqlcskejuc.jpg",
+        "chefName": "Serkan Aksoy",
         "yearsOfExperience": 12,
         "numberOfRecipes": 75,
         "likes": 32,
@@ -292,9 +292,9 @@
         ]
     },
     {
-        "id": 2,
-        "chefPicture": "img2.jpg",
-        "chefName": "Ayşe Yılmaz",
+        "_id": 6,
+        "chefPicture": "https://res.cloudinary.com/dpeoxmblg/image/upload/c_limit,f_jpg,fl_lossy.any_format.preserve_transparency.progressive,h_1600,pg_1,q_auto,w_1600/v1/assets/Chef/mcxsuu7akna31eae0jfb",
+        "chefName": "usuf Aydın",
         "yearsOfExperience": 10,
         "numberOfRecipes": 75,
         "likes": 30,
