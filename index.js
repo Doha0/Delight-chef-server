@@ -15,6 +15,12 @@ app.get('/chefdata', (req, res) => {
     res.send(chefData);
 })
 
+app.get("/chefdata/:id", (req, res) => {
+    const id = parseInt(req.params.id);
+    const chefInformation = chefData.find(chef => chef._id === id);
+    res.send(chefInformation);
+});
+
 app.listen(port, () => {
     console.log(`delight chef is running on port: ${port}`);
 })
